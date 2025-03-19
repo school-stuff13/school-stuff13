@@ -1,2 +1,3 @@
 - 👋 Hej klasse og jer der har fundet den her
-- 💀 Jeg laver ting som programmer og hjemmesider som skole arbejde
+- 👜 Jeg laver ting som programmer og hjemmesider som skole arbejde
+- ❓ Jeg er igang med at jave en hjemmeside til projekt uge
